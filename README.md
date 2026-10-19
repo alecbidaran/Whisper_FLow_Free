@@ -1,4 +1,4 @@
-# Whisper Flow
+# Whisper flow Freestyle
 
 Whisper Flow is a Gradio application for transcribing speech with OpenAI's
 `whisper-medium` model. It supports live microphone transcription and
